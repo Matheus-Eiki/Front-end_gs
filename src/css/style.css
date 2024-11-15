@@ -68,7 +68,7 @@ header a:hover, header a.active {
     border-bottom: 3px solid var(--text-color);
 }
 
-.section-principal .img-spl{
+.img-spl{
     border-radius: 10px;
     border: 1px solid var(--main-color);
     width: 50%;
@@ -76,9 +76,15 @@ header a:hover, header a.active {
     margin-top: 7rem;
 }
 
+.img-icon{
+    margin-left: 7rem;
+    margin-top: 5rem;
+}
+
 .container-b1{ /*b1 = bloco 1*/
     display: flex;
     align-items: center;
+    text-align: center;
     gap: 20px;
 }
 
@@ -88,14 +94,18 @@ header a:hover, header a.active {
     background-color: var(--text-color);
     border-radius: 50px;
     padding: 2%;
+    margin-left: 2rem;
 }
 
-.section-principal h2{
+h2{
     text-align: center;
     margin-top: 8%;
     color: var(--text-color);
 }
 
+#image{
+    width: 500px;
+}
 
 /*Rodapé*/
 

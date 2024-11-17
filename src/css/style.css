@@ -97,7 +97,7 @@ header a:hover, header a.active {
     margin-left: 2rem;
 }
 
-h2{
+.title-sections{
     text-align: center;
     margin-top: 8%;
     color: var(--text-color);
@@ -110,6 +110,5 @@ h2{
 /*Rodapé*/
 
 .rodape{
-    position: sticky;
-    margin-top: 30%;
+    margin-top: 20%;
 }

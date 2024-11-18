@@ -1,0 +1,14 @@
+Integrantes do grupo:
+
+Francisco Vargas - RM560322
+Matheus Ikeda - RM559483
+Kayque Carvalho - RM561189
+
+
+Link do repositório do projeto no github:
+https://github.com/Matheus-Eiki/Front-end_gs
+
+
+Professor Orientador
+
+- Marcelo Amorim
